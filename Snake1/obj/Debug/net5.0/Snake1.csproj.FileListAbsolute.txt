@@ -1,0 +1,16 @@
+C:\Users\lena_\source\repos\Snake\Snake1\bin\Debug\net5.0\Snake1.exe
+C:\Users\lena_\source\repos\Snake\Snake1\bin\Debug\net5.0\Snake1.deps.json
+C:\Users\lena_\source\repos\Snake\Snake1\bin\Debug\net5.0\Snake1.runtimeconfig.json
+C:\Users\lena_\source\repos\Snake\Snake1\bin\Debug\net5.0\Snake1.runtimeconfig.dev.json
+C:\Users\lena_\source\repos\Snake\Snake1\bin\Debug\net5.0\Snake1.dll
+C:\Users\lena_\source\repos\Snake\Snake1\bin\Debug\net5.0\ref\Snake1.dll
+C:\Users\lena_\source\repos\Snake\Snake1\bin\Debug\net5.0\Snake1.pdb
+C:\Users\lena_\source\repos\Snake\Snake1\obj\Debug\net5.0\Snake1.csproj.AssemblyReference.cache
+C:\Users\lena_\source\repos\Snake\Snake1\obj\Debug\net5.0\Snake1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lena_\source\repos\Snake\Snake1\obj\Debug\net5.0\Snake1.AssemblyInfoInputs.cache
+C:\Users\lena_\source\repos\Snake\Snake1\obj\Debug\net5.0\Snake1.AssemblyInfo.cs
+C:\Users\lena_\source\repos\Snake\Snake1\obj\Debug\net5.0\Snake1.csproj.CoreCompileInputs.cache
+C:\Users\lena_\source\repos\Snake\Snake1\obj\Debug\net5.0\Snake1.dll
+C:\Users\lena_\source\repos\Snake\Snake1\obj\Debug\net5.0\ref\Snake1.dll
+C:\Users\lena_\source\repos\Snake\Snake1\obj\Debug\net5.0\Snake1.pdb
+C:\Users\lena_\source\repos\Snake\Snake1\obj\Debug\net5.0\Snake1.genruntimeconfig.cache
